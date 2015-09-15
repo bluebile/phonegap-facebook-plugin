@@ -1,4 +1,4 @@
-package com.phonegap.plugins.facebookconnect;
+package br.com.mbamobi.facebookconnect;
 
 import java.io.UnsupportedEncodingException;
 import java.math.BigDecimal;
